@@ -1,5 +1,5 @@
 # PyAutoTrad
-Tradutor automático, em python.
+Tradutor automático, Traduz de qualquer lingua para PT-BR.
 
 # Instalação:
 <p>pip3 install googletrans clipboard</p>
